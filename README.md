@@ -20,6 +20,7 @@ The Barber Shop App includes the following features:
 
 Here are some screenshots of the Barber Shop App:
 
+
 [Add screenshots here]
 
 ## Getting Started
