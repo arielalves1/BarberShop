@@ -19,9 +19,14 @@ The Barber Shop App includes the following features:
 ## Screenshots
 
 Here are some screenshots of the Barber Shop App:
+![Screenshot_20230524-092504_Barber Shop](https://github.com/arielalves1/BarberShop/assets/18384920/3d2baa14-875c-4fd2-9d77-27031ca6aa8c)
 
+![Screenshot_20230524-092520_Barber Shop](https://github.com/arielalves1/BarberShop/assets/18384920/7e611a58-5cbb-48a9-b9f3-ef95b3281f04)
 
-[Add screenshots here]
+![Screenshot_20230524-092529_Barber Shop](https://github.com/arielalves1/BarberShop/assets/18384920/c22904e2-66ff-454b-afd8-68977ed597b3)
+
+![Screenshot_20230524-092532_Barber Shop](https://github.com/arielalves1/BarberShop/assets/18384920/d44b2bde-0e7c-42ed-8aca-5755fe6f9fcc)
+
 
 ## Getting Started
 
